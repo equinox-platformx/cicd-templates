@@ -172,7 +172,7 @@ pip install cookiecutter path
 ```
 - Create new project using cookiecutter template:
 ```
-cookiecutter https://github.com/databrickslabs/cicd-templates
+cookiecutter https://github.com/equionox-platformx/cicd-templates
 ```
 - Install development dependencies:
 ```bash
